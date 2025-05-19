@@ -1,0 +1,18 @@
+# MCP SDK and utilities
+mcp>=1.2.0
+mcp[cli]
+
+# HTTP client for API requests
+httpx>=0.25.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# For Deepseek API integration (compatible with OpenAI SDK)
+openai>=1.5.0
+
+# Typing extensions (for Python < 3.11)
+typing-extensions>=4.0.0
+
+# Async utilities
+asyncio>=3.4.3
